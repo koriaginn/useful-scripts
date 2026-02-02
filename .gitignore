@@ -1,0 +1,17 @@
+# Приватные/конфиденциальные скрипты
+05_Telegram_Channel_Updater/
+personal_scripts/      # Можно создать отдельную папку для приватного
+
+# Системные файлы
+*.log
+*.cache
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Конфиги с приватными данными
+config.ini
+secrets.yaml
+.env
+credentials.json
